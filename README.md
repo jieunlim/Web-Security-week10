@@ -10,7 +10,7 @@ Time spent: **X** hours spent in total
 - [x] All source code and assets necessary for running app
 - [x] `/globitek.sql` containing all required SQL, including the `secrets` table
 - [x] GIF Walkthrough of compromise
-<img src='http://i.imgur.com/KiKpbb9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/n9Weelg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 - [ ] Brief writeup about the vulnerabilities introduced below
 
